@@ -9,5 +9,6 @@ public class Example14 {
         System.out.print("Введите число: ");
         int a= in.nextInt();
         System.out.println((a-1)+ " " +a+ " "+ (a+1)+ " "+(a*a));
+        in.close();
     }
 }

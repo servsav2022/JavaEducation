@@ -12,5 +12,6 @@ public class Example13 {
         System.out.println("Введите число b ");
         int b= in.nextInt();
         System.out.println("Сумма чисел a+b="+(a+b));
+        in.close();
     }
 }

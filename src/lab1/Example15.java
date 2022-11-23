@@ -14,5 +14,6 @@ public class Example15 {
 
         System.out.println("Сумма чисел a+b="+(a+b));
         System.out.println("Сумма чисел a-b="+(a-b));
+        in.close();
     }
 }

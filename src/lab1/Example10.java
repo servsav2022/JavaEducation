@@ -15,5 +15,6 @@ public class Example10 {
         //нашел два способа перевода инт в стринг
         //System.out.println("Ваш возраст: "+ String.valueOf(today.getYear()-year));
         System.out.println("Ваш возраст: "+ (today.getYear() - year));
+        in.close();
     }
 }

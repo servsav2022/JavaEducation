@@ -16,5 +16,6 @@ public class Example11 {
         int year = in.nextInt();
 
         System.out.println("Вас зовут "+name+" и ваш возраст возраст: "+ (today.getYear() - year));
+        in.close();
     }
 }

@@ -1,27 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2706e805-2d3d-485e-b4b1-c96b260eba9c" name="Changes" comment="" />
+    <list default="true" id="2706e805-2d3d-485e-b4b1-c96b260eba9c" name="Changes" comment="commit Example15">
+      <change afterPath="$PROJECT_DIR$/src/timus/task1293/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Example10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1/Example11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Example11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1/Example12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Example12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1/Example13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Example13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1/Example14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Example14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1/Example15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Example15.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <branch-grouping />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Hda5p86zyyeVvOcxNWO8xE8NG2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="timus.task1000.task_1293" />
+      <recent name="timus.task1293" />
+      <recent name="timus" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.Example1" />
+      <module name="JavaEducation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.Example13" />
+      <module name="JavaEducation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.Example14" />
+      <module name="JavaEducation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.Example15" />
+      <module name="JavaEducation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task1293.Main" />
+      <module name="JavaEducation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timus.task1293.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.Example15" />
+        <item itemvalue="Application.Example14" />
+        <item itemvalue="Application.Example13" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +151,152 @@
       <option name="presentableId" value="Default" />
       <updated>1668617243465</updated>
     </task>
+    <task id="LOCAL-00001" summary="comm1">
+      <created>1668619168964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668619168964</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit1">
+      <created>1668619584097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668619584097</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comm">
+      <created>1668620125394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668620125394</updated>
+    </task>
+    <task id="LOCAL-00004" summary="comm">
+      <created>1668620235988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668620235988</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1668620483529</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668620483529</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit Example6">
+      <created>1669184672412</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669184672412</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit Example7">
+      <created>1669185260369</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669185260369</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit Example8">
+      <created>1669185946098</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669185946098</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit Example9">
+      <created>1669191246112</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669191246112</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit Example10">
+      <created>1669195788681</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669195788681</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit Example11">
+      <created>1669196649429</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669196649429</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit Example12">
+      <created>1669196998162</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669196998162</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit Example13">
+      <created>1669197486803</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669197486803</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commit Example14">
+      <created>1669198079174</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669198079174</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commit Example15">
+      <created>1669198280692</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669198280692</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comm1" />
+    <MESSAGE value="commit1" />
+    <MESSAGE value="comm" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="commit Example6" />
+    <MESSAGE value="commit Example7" />
+    <MESSAGE value="commit Example8" />
+    <MESSAGE value="commit Example9" />
+    <MESSAGE value="commit Example10" />
+    <MESSAGE value="commit Example11" />
+    <MESSAGE value="commit Example12" />
+    <MESSAGE value="commit Example13" />
+    <MESSAGE value="commit Example14" />
+    <MESSAGE value="commit Example15" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit Example15" />
   </component>
 </project>

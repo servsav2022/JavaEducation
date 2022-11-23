@@ -11,8 +11,8 @@ public class Example12 {
 
         System.out.println("Введите ваш возраст");
         int age = in.nextInt();
-
         System.out.println("Ваш год рождения: "+ (today.getYear() - age));
+        in.close();
     }
 }
 
