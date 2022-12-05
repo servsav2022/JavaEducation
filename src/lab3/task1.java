@@ -38,6 +38,6 @@ public class task1 {
             default:
                 System.out.println("число выходит за допустимый диапазон");
         }
-
+        in.close();
     }
 }
