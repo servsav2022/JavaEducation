@@ -16,6 +16,7 @@ public class task2 {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите день недели маленькими буквами");
         String a= in.next();
+
         switch (a) {
             case "понедельник":
                 System.out.println(1);
@@ -40,6 +41,24 @@ public class task2 {
                 break;
             default:
                 System.out.println("такого дня нет");
+        }
+
+        if (a.contains("понедельник")) {
+            System.out.println(1 + " версия с If else");
+        } else if (a.contains("вторник")) {
+            System.out.println(2 + " версия с If else");
+        } else if (a.contains("среда") ) {
+            System.out.println(3 + " версия с If else");
+        } else if (a.contains("четверг")) {
+            System.out.println(4 + " версия с If else");
+        } else if (a.contains("пятница")) {
+            System.out.println(5 + " версия с If else");
+        } else if (a.contains("суббота")) {
+            System.out.println(6 + " версия с If else");
+        } else if (a.contains("воскресенье")) {
+            System.out.println(7 + " версия с If else");
+        } else {
+            System.out.println("такого дня нет версия с If else");
         }
         in.close();
     }
