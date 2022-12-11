@@ -36,8 +36,6 @@ public class task9 {
         for (int j = 0; j < nums.length; j++) {
             System.out.println("Эелемен массива ["+j+"] = " + nums[j]);
         }
-
-
-
+        id.close();
     }
 }
