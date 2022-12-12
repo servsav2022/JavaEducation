@@ -11,7 +11,7 @@ public class task7 {
 
         int size=10; // размер символьного массива по условию задается переменной
         char[] masChar=new char[size];
-        byte b1 = 97;    // 97 это буква a в ascii иtf-8
+        byte b1 = 97;    // 97 это буква a в ascii и в иtf-8
         for (int i = 0; i < size ; i++) {
             char ch1 = (char) b1;    // перевожу байт в чар
             masChar[i]=ch1;    //заполняю массив
