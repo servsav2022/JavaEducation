@@ -4,10 +4,11 @@ package lab4;
 //
 public class task3 {
     public static void main(String[] args) {
-
-        for (int i = 1; i <6; i++) {
-            for (int j = 1; j < 12; j++) {
-                System.out.print("2 ");
+        int [][] array =new int[5][10];
+        for (int i = 0; i <5; i++) {
+            for (int j = 0; j <10 ; j++) {
+                array[i][j]=2;
+                System.out.print(array[i][j] + " ");
             }
             System.out.println();
         }
