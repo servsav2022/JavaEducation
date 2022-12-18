@@ -59,6 +59,5 @@ public class task8 {
                 System.out.println("Введите корректный ответ");
             }
         }
-
     }
 }
