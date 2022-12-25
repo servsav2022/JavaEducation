@@ -16,8 +16,8 @@ class TestClass1 {
         return chr;
     }
     public void showCodeAndValue (){
-        System.out.println("Code: " + chr);
-        System.out.println("Value: "+ ((int)chr));
+        System.out.println("Value: " + chr);
+        System.out.println("Code: "+ ((int)chr));
     }
 }
 public class task1 {
@@ -26,7 +26,7 @@ public class task1 {
         TestClass1 myClass1 =new TestClass1();
 
         myClass1.setChr('W');
-        System.out.println(myClass1.getCodeChr());
+        System.out.println("getCodeChr: " + myClass1.getCodeChr());
         myClass1.showCodeAndValue();
     }
 }
