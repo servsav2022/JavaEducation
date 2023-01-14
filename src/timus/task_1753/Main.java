@@ -18,6 +18,5 @@ public class Main {
             System.out.format("%.6f", res);
         else
             System.out.format("%.6f", 0.0);
-
     }
 }
