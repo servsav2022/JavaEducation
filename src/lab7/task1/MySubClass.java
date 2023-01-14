@@ -1,20 +1,20 @@
 package lab7.task1;
 
 public class MySubClass extends MySuperClass {
-    //У него появляется еще одно приватное текстовое ноле.
+
     private String str2;
     private String str3;
 
     MySubClass(String strEx) {
         super(strEx);
     }
-    //конструктор с двумя параметрами
+
     MySubClass(String strEx2, String strEx3) {
         this.str2 = strEx2;
         this.str3 = strEx3;
     }
-    //в подклассе должен быть переопределен метод toString ().
-    //@Override - аннотация для указываемая для того, чтобы показать что далее мы собираемся переопределять метод суперкласса
+
+
     @Override
     public String toString() {
         String ClassNameAndFieldValue;
