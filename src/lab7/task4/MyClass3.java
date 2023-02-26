@@ -29,5 +29,4 @@ public class MyClass3 extends MyClass2 {
     public int getInt() {
         return a;
     }
-
 }

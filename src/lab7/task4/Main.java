@@ -33,6 +33,5 @@ public class Main {
         MyClass3 testObj3Copy = new MyClass3(testObj3);
         String string3Copy = testObj3Copy.toString();
         System.out.println(string3Copy);
-
     }
 }

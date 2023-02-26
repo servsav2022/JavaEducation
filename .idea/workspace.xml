@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2706e805-2d3d-485e-b4b1-c96b260eba9c" name="Changes" comment="commit Example15">
-      <change afterPath="$PROJECT_DIR$/src/timus/task1293/Main.java" afterDir="false" />
+    <list default="true" id="2706e805-2d3d-485e-b4b1-c96b260eba9c" name="Changes" comment="lab07/task5">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Example10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/Example11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Example11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/Example12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Example12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/Example13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Example13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/Example14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Example14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/Example15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Example15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/task1/MySubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/task1/MySubClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/task4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/task4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/task4/MyClass3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/task4/MyClass3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +43,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2Hda5p86zyyeVvOcxNWO8xE8NG2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,7 +57,11 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/JavaEducation&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/user/IdeaProjects/JavaEducation/src/lab3/task5.java&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -66,13 +71,13 @@
       <recent name="timus" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab1.Example1" />
+  <component name="RunManager" selected="Application.lab7.task5.Main">
+    <configuration name="lab7.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab7.task1.Main" />
       <module name="JavaEducation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab1.*" />
+          <option name="PATTERN" value="lab7.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab1.Example13" />
+    <configuration name="lab7.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab7.task2.Main" />
       <module name="JavaEducation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab1.*" />
+          <option name="PATTERN" value="lab7.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab1.Example14" />
+    <configuration name="lab7.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab7.task3.Main" />
       <module name="JavaEducation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab1.*" />
+          <option name="PATTERN" value="lab7.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab1.Example15" />
+    <configuration name="lab7.task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab7.task4.Main" />
       <module name="JavaEducation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab1.*" />
+          <option name="PATTERN" value="lab7.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task1293.Main" />
+    <configuration name="lab7.task5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab7.task5.Main" />
       <module name="JavaEducation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.task1293.*" />
+          <option name="PATTERN" value="lab7.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.Example15" />
-        <item itemvalue="Application.Example14" />
-        <item itemvalue="Application.Example13" />
+        <item itemvalue="Application.lab7.task5.Main" />
+        <item itemvalue="Application.lab7.task4.Main" />
+        <item itemvalue="Application.lab7.task3.Main" />
+        <item itemvalue="Application.lab7.task2.Main" />
+        <item itemvalue="Application.lab7.task1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -151,112 +156,350 @@
       <option name="presentableId" value="Default" />
       <updated>1668617243465</updated>
     </task>
-    <task id="LOCAL-00001" summary="comm1">
-      <created>1668619168964</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00043" summary="lab4/task2">
+      <created>1671294334854</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
       <option name="project" value="LOCAL" />
-      <updated>1668619168964</updated>
+      <updated>1671294334854</updated>
     </task>
-    <task id="LOCAL-00002" summary="commit1">
-      <created>1668619584097</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00044" summary="lab4/task3">
+      <created>1671294537810</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
       <option name="project" value="LOCAL" />
-      <updated>1668619584097</updated>
+      <updated>1671294537810</updated>
     </task>
-    <task id="LOCAL-00003" summary="comm">
-      <created>1668620125394</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00045" summary="lab4/task3">
+      <created>1671295075769</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
       <option name="project" value="LOCAL" />
-      <updated>1668620125394</updated>
+      <updated>1671295075769</updated>
     </task>
-    <task id="LOCAL-00004" summary="comm">
-      <created>1668620235988</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00046" summary="lab4/task4">
+      <created>1671295503138</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
       <option name="project" value="LOCAL" />
-      <updated>1668620235988</updated>
+      <updated>1671295503138</updated>
     </task>
-    <task id="LOCAL-00005" summary="commit">
-      <created>1668620483529</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+    <task id="LOCAL-00047" summary="lab4/task5">
+      <created>1671299282209</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
       <option name="project" value="LOCAL" />
-      <updated>1668620483529</updated>
+      <updated>1671299282209</updated>
     </task>
-    <task id="LOCAL-00006" summary="commit Example6">
-      <created>1669184672412</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00048" summary="lab4/task6">
+      <created>1671303191437</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
       <option name="project" value="LOCAL" />
-      <updated>1669184672412</updated>
+      <updated>1671303191437</updated>
     </task>
-    <task id="LOCAL-00007" summary="commit Example7">
-      <created>1669185260369</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+    <task id="LOCAL-00049" summary="lab4/task7">
+      <created>1671353989869</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
       <option name="project" value="LOCAL" />
-      <updated>1669185260369</updated>
+      <updated>1671353989869</updated>
     </task>
-    <task id="LOCAL-00008" summary="commit Example8">
-      <created>1669185946098</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
+    <task id="LOCAL-00050" summary="lab4/task8">
+      <created>1671354642730</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
       <option name="project" value="LOCAL" />
-      <updated>1669185946098</updated>
+      <updated>1671354642731</updated>
     </task>
-    <task id="LOCAL-00009" summary="commit Example9">
-      <created>1669191246112</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
+    <task id="LOCAL-00051" summary="lab4/task8">
+      <created>1671384052982</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
       <option name="project" value="LOCAL" />
-      <updated>1669191246112</updated>
+      <updated>1671384052982</updated>
     </task>
-    <task id="LOCAL-00010" summary="commit Example10">
-      <created>1669195788681</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+    <task id="LOCAL-00052" summary="lab4/task9">
+      <created>1671384492062</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
       <option name="project" value="LOCAL" />
-      <updated>1669195788681</updated>
+      <updated>1671384492062</updated>
     </task>
-    <task id="LOCAL-00011" summary="commit Example11">
-      <created>1669196649429</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+    <task id="LOCAL-00053" summary="lab5/task1">
+      <created>1671973694993</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
       <option name="project" value="LOCAL" />
-      <updated>1669196649429</updated>
+      <updated>1671973694993</updated>
     </task>
-    <task id="LOCAL-00012" summary="commit Example12">
-      <created>1669196998162</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+    <task id="LOCAL-00054" summary="lab5/task1">
+      <created>1671973940618</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
       <option name="project" value="LOCAL" />
-      <updated>1669196998162</updated>
+      <updated>1671973940618</updated>
     </task>
-    <task id="LOCAL-00013" summary="commit Example13">
-      <created>1669197486803</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+    <task id="LOCAL-00055" summary="lab5/task2">
+      <created>1671975754068</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
       <option name="project" value="LOCAL" />
-      <updated>1669197486803</updated>
+      <updated>1671975754069</updated>
     </task>
-    <task id="LOCAL-00014" summary="commit Example14">
-      <created>1669198079174</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+    <task id="LOCAL-00056" summary="lab5/task3">
+      <created>1671979912250</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
       <option name="project" value="LOCAL" />
-      <updated>1669198079174</updated>
+      <updated>1671979912250</updated>
     </task>
-    <task id="LOCAL-00015" summary="commit Example15">
-      <created>1669198280692</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+    <task id="LOCAL-00057" summary="lab5/task4">
+      <created>1671983217697</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
       <option name="project" value="LOCAL" />
-      <updated>1669198280692</updated>
+      <updated>1671983217698</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00058" summary="lab5/task5">
+      <created>1671985992058</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1671985992058</updated>
+    </task>
+    <task id="LOCAL-00059" summary="lab5/task6">
+      <created>1671989145854</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1671989145854</updated>
+    </task>
+    <task id="LOCAL-00060" summary="lab6/task1">
+      <created>1673104604711</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1673104604711</updated>
+    </task>
+    <task id="LOCAL-00061" summary="lab6/task2">
+      <created>1673106320467</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1673106320467</updated>
+    </task>
+    <task id="LOCAL-00062" summary="lab6/task3">
+      <created>1673113338303</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1673113338303</updated>
+    </task>
+    <task id="LOCAL-00063" summary="lab6/task4">
+      <created>1673114190253</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1673114190253</updated>
+    </task>
+    <task id="LOCAL-00064" summary="lab6/task5">
+      <created>1673115533067</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1673115533067</updated>
+    </task>
+    <task id="LOCAL-00065" summary="lab6/task6">
+      <created>1673117390704</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1673117390704</updated>
+    </task>
+    <task id="LOCAL-00066" summary="lab6/task7">
+      <created>1673119805110</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1673119805110</updated>
+    </task>
+    <task id="LOCAL-00067" summary="lab6/task8">
+      <created>1673121656746</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1673121656746</updated>
+    </task>
+    <task id="LOCAL-00068" summary="lab6/task9">
+      <created>1673122451964</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1673122451964</updated>
+    </task>
+    <task id="LOCAL-00069" summary="lab6/task10">
+      <created>1673124162848</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1673124162848</updated>
+    </task>
+    <task id="LOCAL-00070" summary="timus/2012">
+      <created>1673177571195</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1673177571196</updated>
+    </task>
+    <task id="LOCAL-00071" summary="timus/1877">
+      <created>1673178234103</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1673178234103</updated>
+    </task>
+    <task id="LOCAL-00072" summary="timus/2001">
+      <created>1673178948466</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1673178948466</updated>
+    </task>
+    <task id="LOCAL-00073" summary="timus/1264">
+      <created>1673179640375</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1673179640375</updated>
+    </task>
+    <task id="LOCAL-00074" summary="timus/1787">
+      <created>1673180475658</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1673180475658</updated>
+    </task>
+    <task id="LOCAL-00075" summary="timus/1820">
+      <created>1673181025966</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1673181025966</updated>
+    </task>
+    <task id="LOCAL-00076" summary="timus/2066">
+      <created>1673185443957</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1673185443957</updated>
+    </task>
+    <task id="LOCAL-00077" summary="timus/1197">
+      <created>1673186272287</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1673186272287</updated>
+    </task>
+    <task id="LOCAL-00078" summary="timus/1880">
+      <created>1673194205539</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1673194205539</updated>
+    </task>
+    <task id="LOCAL-00079" summary="timus/1639">
+      <created>1673194514716</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1673194514716</updated>
+    </task>
+    <task id="LOCAL-00080" summary="timus/1910">
+      <created>1673195531060</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1673195531060</updated>
+    </task>
+    <task id="LOCAL-00081" summary="timus/1000">
+      <created>1673196236950</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1673196236950</updated>
+    </task>
+    <task id="LOCAL-00082" summary="timus/1001">
+      <created>1673197773675</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1673197773675</updated>
+    </task>
+    <task id="LOCAL-00083" summary="timus/1349">
+      <created>1673198117679</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1673198117679</updated>
+    </task>
+    <task id="LOCAL-00084" summary="timus/1753">
+      <created>1673198396843</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1673198396843</updated>
+    </task>
+    <task id="LOCAL-00085" summary="timus/1010">
+      <created>1673198723465</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1673198723465</updated>
+    </task>
+    <task id="LOCAL-00086" summary="lab07/task1">
+      <created>1673720053343</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1673720053344</updated>
+    </task>
+    <task id="LOCAL-00087" summary="lab07/task2">
+      <created>1673729066342</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1673729066342</updated>
+    </task>
+    <task id="LOCAL-00088" summary="lab07/task3">
+      <created>1673733093969</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1673733093969</updated>
+    </task>
+    <task id="LOCAL-00089" summary="lab07/task4">
+      <created>1673736839692</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1673736839692</updated>
+    </task>
+    <task id="LOCAL-00090" summary="lab07/task5">
+      <created>1673741921647</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1673741921647</updated>
+    </task>
+    <task id="LOCAL-00091" summary="lab07/task5">
+      <created>1673741934573</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1673741934573</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,7 +513,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -283,20 +526,41 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="comm1" />
-    <MESSAGE value="commit1" />
-    <MESSAGE value="comm" />
-    <MESSAGE value="commit" />
-    <MESSAGE value="commit Example6" />
-    <MESSAGE value="commit Example7" />
-    <MESSAGE value="commit Example8" />
-    <MESSAGE value="commit Example9" />
-    <MESSAGE value="commit Example10" />
-    <MESSAGE value="commit Example11" />
-    <MESSAGE value="commit Example12" />
-    <MESSAGE value="commit Example13" />
-    <MESSAGE value="commit Example14" />
-    <MESSAGE value="commit Example15" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Example15" />
+    <MESSAGE value="lab6/task7" />
+    <MESSAGE value="lab6/task8" />
+    <MESSAGE value="lab6/task9" />
+    <MESSAGE value="lab6/task10" />
+    <MESSAGE value="timus/2012" />
+    <MESSAGE value="timus/1877" />
+    <MESSAGE value="timus/2001" />
+    <MESSAGE value="timus/1264" />
+    <MESSAGE value="timus/1787" />
+    <MESSAGE value="timus/1820" />
+    <MESSAGE value="timus/2066" />
+    <MESSAGE value="timus/1197" />
+    <MESSAGE value="timus/1880" />
+    <MESSAGE value="timus/1639" />
+    <MESSAGE value="timus/1910" />
+    <MESSAGE value="timus/1000" />
+    <MESSAGE value="timus/1001" />
+    <MESSAGE value="timus/1349" />
+    <MESSAGE value="timus/1753" />
+    <MESSAGE value="timus/1010" />
+    <MESSAGE value="lab07/task1" />
+    <MESSAGE value="lab07/task2" />
+    <MESSAGE value="lab07/task3" />
+    <MESSAGE value="lab07/task4" />
+    <MESSAGE value="lab07/task5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab07/task5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

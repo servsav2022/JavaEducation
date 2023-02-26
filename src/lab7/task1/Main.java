@@ -23,8 +23,5 @@ public class Main {
         MySubClass subClassObject2 = new MySubClass("передал в конструктор подкласса", "где два параметра");
         String subClassName2 = subClassObject2.toString();
         System.out.println(subClassName2);
-
-
-
     }
 }
