@@ -6,8 +6,18 @@ public class Task3 {
         Scanner scanner = new Scanner(System.in);
 
         // Запрашиваем у пользователя размер массива
-        System.out.print("Введите размер массива: ");
-        int size = scanner.nextInt();
+        int size = 0;
+        boolean validSize = false;
+        while (!validSize) {
+            try {
+                System.out.print("Введите размер массива: ");
+                size = scanner.nextInt();
+                validSize = true;
+            } catch (Exception e) {
+                System.out.println("Ошибка: " + e.getMessage() + ". Пожалуйста, введите целое число.");
+                scanner.nextLine();
+            }
+        }
 
         // Создаем массив указанного размера
         byte[] array = new byte[size];
@@ -15,7 +25,16 @@ public class Task3 {
         // Заполняем массив значениями, введенными пользователем
         System.out.println("Введите элементы массива:");
         for (int i = 0; i < size; i++) {
-            array[i] = scanner.nextByte();
+            boolean validInput = false;
+            while (!validInput) {
+                try {
+                    array[i] = scanner.nextByte();
+                    validInput = true;
+                } catch (Exception e) {
+                    System.out.println("Ошибка: " + e.getMessage() + ". Пожалуйста, введите целое число от -128 до 127.");
+                    scanner.nextLine();
+                }
+            }
         }
 
         // Выводим массив в одну строку
@@ -35,4 +54,3 @@ public class Task3 {
         System.out.println("Сумма элементов массива: " + sum);
     }
 }
-// нужно доделать добавить исключения
