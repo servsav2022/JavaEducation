@@ -1,6 +1,13 @@
 package lab9;
 import java.util.Scanner;
+/*
+Задание 3
+В программе, вычисляющей сумму элементов типа byte одномерного массива, вводимого с клавиатуры,
+ могут возникать ошибки в следующих случаях:
+–	ввод строки вместо числа;
+–	ввод или вычисление значения за границами диапазона типа.
 
+ */
 public class Task3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -49,7 +56,6 @@ public class Task3 {
         for (int i = 0; i < size; i++) {
             sum += array[i];
         }
-
         // Выводим сумму на экран
         System.out.println("Сумма элементов массива: " + sum);
     }
