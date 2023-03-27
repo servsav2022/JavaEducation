@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library>
+                
+    
+    
+            
+    
+    
+        
+    
+    
+    <book>
+                        
+        
+        <title>тестовая книга1 из AddBook</title>
+                        
+        
+        <author>Автор Александр</author>
+                        
+        
+        <year>2023</year>
+                    
+    
+    </book>
+        
+    
+    <book>
+                
+        <title>Тестовая книга два, из программы с добавлением поиском и удалением</title>
+                
+        <author>Автор Александр</author>
+                
+        <year>2023</year>
+            
+    </book>
+        
+    <book>
+                
+        <title>тестовая книга 3</title>
+                
+        <author>иванов иван</author>
+                
+        <year>2023</year>
+            
+    </book>
+    
+</library>

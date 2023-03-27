@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movies>
+    <film>
+        <title>Зеленая миля</title>
+        <year>1999</year>
+        <duration>189 мин</duration>
+        <country>США</country>
+        <genre>драма</genre>
+        <director>Фрэнк Дарабонт</director>
+    </film>
+    <film>
+        <title>Список Шиндлера</title>
+        <year>1993</year>
+        <duration>195 мин</duration>
+        <country>США</country>
+        <genre>драма</genre>
+        <director>Стивен Спилберг</director>
+    </film>
+    <film>
+        <title>Иван Васильевич меняет профессию</title>
+        <year>1973</year>
+        <duration>88 мин</duration>
+        <country>СССР</country>
+        <genre>комедия</genre>
+        <director>Леонид Гайдай</director>
+    </film>
+</movies>
