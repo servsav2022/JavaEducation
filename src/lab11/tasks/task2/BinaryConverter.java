@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class BinaryConverter {
     public static void main(String[] args) {
-        System.out.println("Enter an integer: ");
+        System.out.println("Введите целое число: ");
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         String binary = convertToBinary(n);
