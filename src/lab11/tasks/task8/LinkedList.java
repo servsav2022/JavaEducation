@@ -119,10 +119,10 @@ public class LinkedList {
 
     // ввод с головы (рекурсивный метод)
     public void createHeadRec(int data) {
-        head = createHeadRecHelper(head, data);
+        head = createHeadRecWrapped(head, data);
     }
 
-    private Node createHeadRecHelper(Node current, int data) {
+    private Node createHeadRecWrapped(Node current, int data) {
         if (current == null) {
             return new Node(data);
         }
@@ -133,27 +133,27 @@ public class LinkedList {
 
     // ввод с хвоста (рекурсивный метод)
     public void createTailRec(int data) {
-        head = createTailRecHelper(head, data);
+        head = createTailRecWrapped(head, data);
     }
 
-    private Node createTailRecHelper(Node current, int data) {
+    private Node createTailRecWrapped(Node current, int data) {
         if (current == null) {
             return new Node(data);
         }
-        current.next = createTailRecHelper(current.next, data);
+        current.next = createTailRecWrapped(current.next, data);
         return current;
     }
 
     // вывод списка (рекурсивный метод)
     public String toStringRec() {
-        return toStringRecHelper(head);
+        return toStringRecWrapped(head);
     }
 
-    private String toStringRecHelper(Node current) {
+    private String toStringRecWrapped(Node current) {
         if (current == null) {
             return "";
         }
-        return current.data + " " + toStringRecHelper(current.next);
+        return current.data + " " + toStringRecWrapped(current.next);
     }
 
 }
