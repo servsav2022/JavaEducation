@@ -5,18 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2706e805-2d3d-485e-b4b1-c96b260eba9c" name="Changes" comment="lab07/task5">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/googlecode_json_simple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PogodaParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/tasks/task1/RecursionV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Your JUDGE_ID 346570ZC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1924/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab7/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/task1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab7/task1/MySubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/task1/MySubClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab7/task4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/task4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab7/task4/MyClass3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/task4/MyClass3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEducation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEducation.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,16 +57,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/JavaEducation&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/user/IdeaProjects/JavaEducation/src/lab3/task5.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/JavaEducation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "two.files.diff.last.used.file": "C:/Users/user/IdeaProjects/JavaEducation/src/lab3/task5.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="timus.task1000.task_1293" />
@@ -71,13 +87,13 @@
       <recent name="timus" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lab7.task5.Main">
-    <configuration name="lab7.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab7.task1.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1924.Main" />
       <module name="JavaEducation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab7.task1.*" />
+          <option name="PATTERN" value="timus.task_1924.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.lab7.task5.Main" />
         <item itemvalue="Application.lab7.task4.Main" />
         <item itemvalue="Application.lab7.task3.Main" />
         <item itemvalue="Application.lab7.task2.Main" />
-        <item itemvalue="Application.lab7.task1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668617243465</updated>
+      <workItem from="1683660145541" duration="2106000" />
     </task>
     <task id="LOCAL-00043" summary="lab4/task2">
       <created>1671294334854</created>
@@ -501,6 +518,9 @@
     </task>
     <option name="localTasksCounter" value="92" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
