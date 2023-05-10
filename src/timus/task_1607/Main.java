@@ -24,7 +24,6 @@ public class Main {
             }else{
                 a+=b;
             }
-
             if (c-d<=a){
                 finalPrice = a;
                 break;

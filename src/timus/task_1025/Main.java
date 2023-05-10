@@ -20,7 +20,6 @@ public class Main {
             ans += min / 2 + 1;
             groups.remove(Integer.valueOf(min));
         }
-
         System.out.println(ans);
         sc.close();
     }
